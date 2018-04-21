@@ -1,0 +1,8 @@
+{
+  "name": "read-text-stream",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "amio/read-text-stream",
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT"
+}
